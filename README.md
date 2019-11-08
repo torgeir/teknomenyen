@@ -5,7 +5,7 @@ Fetches the cantina menus from teknobyen.no
 ## Example
 
 ```js
-const { fetchMenus } =  require('teknomenyen');
+const { fetchMenus } = require('teknomenyen');
 
 fetchMenus()
   .then(menus => console.log(menus))

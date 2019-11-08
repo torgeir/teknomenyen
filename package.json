@@ -1,0 +1,18 @@
+{
+  "name": "teknomenyen",
+  "version": "1.0.0",
+  "description": "Functionality for fetching the Teknobyen cantina menus from teknobyen.no.",
+  "main": "teknomenyen.js",
+  "author": "@torgeir",
+  "license": "MIT",
+  "homepage": "https://github.com/torgeir/teknomenyen",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
